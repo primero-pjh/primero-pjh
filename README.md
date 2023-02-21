@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 저는 현재 웹 개발자로 일하고 있습니다.
-- 🌱 저는 현재 Vue, React Native 를 공부하고 있습니다.
+- 🌱 저는 현재 Vue, Express, socket-io 를 공부하고 있습니다.
 <!--- 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
