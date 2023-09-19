@@ -1,8 +1,7 @@
-### 반갑습니다. 👋
+<div align="center">
+	<h1>👋 반갑습니다 👋</h1>
+ </div>
 
-**primero-pjh/primero-pjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=PRITRAS&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 - 🔭 저는 현재 웹 개발자로 일하고 있습니다.
 - 🌱 저는 현재 Vue, Express, socket-io 를 공부하고 있습니다.
