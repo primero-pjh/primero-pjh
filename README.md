@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=PRITRAS)]([https://velog.io/@primero-pjh]) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/primero-pjh/github-readme-stats)
+[![PRTRAS's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/primero-pjh/github-readme-stats)
