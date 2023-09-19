@@ -11,8 +11,11 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
 <br>
-<img src="https://img.shields.io/badge/Vue-1572B6?style=for-the-badge&logoColor=white"> 
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/ReactNative-0088CC?style=for-the-badge&logo=React&logoColor=white"> 
+<img src="https://img.shields.io/badge/Quasar-050A14?style=for-the-badge&logo=Quasar&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotenv&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
