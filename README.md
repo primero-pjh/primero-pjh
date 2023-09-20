@@ -15,6 +15,11 @@
 <img src="https://img.shields.io/badge/ReactNative-0088CC?style=for-the-badge&logo=React&logoColor=white"> 
 <img src="https://img.shields.io/badge/Quasar-050A14?style=for-the-badge&logo=Quasar&logoColor=white"> 
 <br>
+<img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/SocketIO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"> 
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> 
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotenv&logoColor=white">
